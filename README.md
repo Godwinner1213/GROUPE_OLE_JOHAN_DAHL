@@ -2,9 +2,6 @@
 TP_DE_PROGRAMMATION_WEB
 MEMBRE DU GROUPE
 ================
-BELEBELE KAMBA Joel
- 
-MAYABA YVETTE Lavie
  
 2LUFATAKI MULENDA Godwin (Chef)
  
@@ -15,8 +12,6 @@ KABEDI MBIYA Naomie
 BINJA NACHIK Alice
  
 KIMPONTO SHITA Yan
- 
-MBUMB YAV Simon
  
 TSHIMANGA BWENDE Japhet (adjoint)
  
@@ -29,21 +24,23 @@ LISTE DES FRAMEWORK
 
 
 DIFFICULTÉS RENCONTRÉES 
-
-=========================
+=======================
 1. Quelques membres ont participé activement à la réalisation de ce projet
 ce qui a induit un délai important pour sa réalisation,
 
 2. La préparation des examens mêlée à la réalisation de ce projet était le plus grand
-problème Ce n'était pas vraiment un moment approprié pour la réalisation d'un tel tp, car nous devions préparer les examens de la se
-3. Ce tp nous a exigé la connaissance d'autres outils, qui nous ont pris encore plus de temps
+problème, un défi qui n'a pas été évident à relever.
+3. Les connaissances requises pour sa réalisation impliquaient du temps, une situation
+ plutôt contraignante
 
-/*Ajoute les points forts ici*/
+POINTS FAIBLES 
+============
 
-Points faibles du site actuel:
 répétition de certaines choses: on publie les actualités sur la page acueil tandis qu'il y' a la page actualité
 
-Petite Histoire de Ole-Jhon Dahl
+PETITE HISTOIRE SUR OLE-JHON-DAHL
+=================================
+
 Ole-Jhon Dahl est un informaticien norvégien né le 12 octobre 1931 et mort le 29 juin 2002.
 Il fut forrmé à l'université d'Oslso ou il y travaillant plusieurs années après en tant que professeur.
 Tout au long de sa carrière, il a obtenu plusieurs prix parmi lequel nous mettons à part le prix de turing(prix
