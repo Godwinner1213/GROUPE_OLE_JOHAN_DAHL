@@ -1,0 +1,73 @@
+body{
+    background-image: url(NATURE.jpg);
+}
+.conteneur{
+    background-color: rgba(74, 194, 52, 0.267);
+    margin-left: 100px;
+    margin-top: 0px;
+    margin-right: 100px;
+}
+.image{
+    margin-top: 0px;
+    display: inline;
+    margin-left:20px;
+    border-radius: 10%;
+    margin-top: 1.5em;
+    margin-left: 3.5em;
+}
+.image1{
+    margin-top: 0px;
+    display: inline;
+    margin-left:20px;
+    border-radius: 10%;
+    margin-top: 1.5em;
+    margin-left: 15em;
+}
+.presente{
+    margin-left: 40px;
+    text-align: justify;
+}
+.service{
+    margin-left: 40px;
+    
+}
+.Horaire{
+    margin-left: 40px;
+}
+.cool{
+    background-color: rgba(69, 8, 211, 0.267);
+    color: rgb(108, 228, 158);
+    text-align: justify;
+    border-radius: 30px;
+    padding: 0.5em;
+    margin-right: 0.9em;
+
+}
+.sup{
+    
+    color: rgb(108, 228, 158);
+}
+.presente p{
+    color: white;
+    font-weight: bold;
+    background-color: rgba(69, 8, 211, 0.267);
+    border-radius: 20px;
+    padding: 0.5em;
+    margin-right: 0.9em;
+}
+.Horaire p{
+    color: white;
+    font-weight: bold;
+    background-color: rgba(69, 8, 211, 0.267);
+    border-radius: 20px;
+    padding: 0.5em;
+    margin-right: 0.9em;
+}
+.service p{
+    color: white;
+    font-weight: bold;
+    background-color: rgba(69, 8, 211, 0.267);
+    border-radius: 20px;
+    padding: 0.5em;
+    margin-right: 0.9em;
+}

@@ -1,0 +1,48 @@
+.logo{
+    height: 80px;
+    width: 60px;
+    margin-left: 40px;
+}
+.institution{
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.container-fluid{
+    margin-top:-8px;
+    height: auto;
+    background-color: rgb(31, 5, 125);
+}
+.navbar{
+    justify-content: center;
+    background-attachment: fixed;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.fond{
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-left:60px;
+    align-items: center;
+}
+.dropdown-menu{
+    margin-left: 55px;
+    height: auto;
+    width: auto;
+    background-color:rgb(4, 4, 55);
+}
+
+ul div a{
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-left: 2px;
+    text-decoration: none;
+    color: white;
+}
+
+@media all and(max-width:990px){
+
+}

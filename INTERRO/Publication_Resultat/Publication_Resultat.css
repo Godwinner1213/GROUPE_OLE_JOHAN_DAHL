@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(166, 207, 235);
+}
+img{
+    width: 200px;
+    height: 280px;
+    margin-left: 35%;
+}
+div{
+    width: 50%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 9px;
+}
+form{
+    margin-left: 20px;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+input,select{
+    border-radius: 5px;
+    width: 650px;
+    border: none;
+    height: 30px;
+}
+#connexion
+{
+    background-color: rgb(73, 250, 73);
+    width: 120px;
+    height: 30px;
+    color: white;
+    font-weight: bold;
+}
+option{
+    font-weight: bold
+}
+input:hover{
+    border: 1px solid blue;
+}
+select:hover{
+    border: 1px solid blue;
+}
